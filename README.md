@@ -1,1 +1,1 @@
-# WeeklyApptSchedule
+# WeeklyApptSchedule Class
